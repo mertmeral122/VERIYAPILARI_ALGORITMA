@@ -17,7 +17,7 @@
 #degisken3 =30
 
 
-"""
+
 
 x=5
 y= "Merhaba Dünya"
